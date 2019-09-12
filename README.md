@@ -7,9 +7,11 @@ Information on Rails.
 - [Overview](#overview)
 - [Prototype](#prototype)
   - [Youtube](#youtube)
-
+  - [Google Alerts](#google-alerts)
 
 ## Overview
+
+> Helps to 
 
 ## Prototype (Version Ashby)
 
@@ -28,3 +30,7 @@ Information on Rails.
 <img src="https://github.com/a6b8/curlai/blob/master/images/browser-extension-1.png" alt="alt text" width="400">
 
 <img src="https://github.com/a6b8/curlai/blob/master/images/browser-extension-2.png" alt="alt text" width="400">
+
+
+### Google Alerts
+> ...
