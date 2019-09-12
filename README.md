@@ -41,5 +41,6 @@ Information on Rails.
 > ...
 
 Tasks:
-- [] Search to Alert Shortcut
-- [] Alert to Curlai Shortcut
+- [ ] Search to Alert Shortcut
+- [ ] Alert to Curlai Shortcut
+- [ ] Background Dark
