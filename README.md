@@ -12,23 +12,25 @@ Information on Rails.
 ## Overview
 
 > (Currently) only for Google Chrome. 
+- As minimal as possible
+- Focus on convenience
 
 
 ## Prototype (Version Ashby)
 
 *Focus*:
-- [x] Create Design Elements
-- [x] Find a first efficient payload structure
-- [x] As minimal as possible
-- [x] Shortcuts to curlai
+- Create Design Elements
+- Find a first efficient payload structure
+- Shortcut to curlai
+
 
 ### Youtube
 > Detail View only
 
-*Tasks*
-- Replace Recommendations with curlai subscriptions (first 20)
-- Reduce Distraction by swapping thumbnails
-- Show Category if channel is added
+*Tasks:*
+- [x] Replace Recommendations with curlai subscriptions (first 20)
+- [x] Reduce Distraction by swapping thumbnails
+- [x] Show Subscription status
 
 <img src="https://github.com/a6b8/curlai/blob/master/images/browser-extension-1.png" alt="alt text" width="400">
 
