@@ -22,7 +22,7 @@ Information on Rails.
 - [x] Shortcuts to curlai
 
 ### Youtube
-> Working on Detail View
+> Detail View only
 
 *Tasks*
 - Replace Recommendations with curlai subscriptions (first 20)
