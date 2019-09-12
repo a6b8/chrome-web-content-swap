@@ -12,6 +12,9 @@ Information on Rails.
 ## Overview
 
 > (Currently) only for Google Chrome. 
+
+This browser extension helps to show relevant Information from Curlai about the current website
+
 - As minimal as possible
 - Focus on convenience
 
