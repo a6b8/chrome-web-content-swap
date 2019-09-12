@@ -39,3 +39,7 @@ Information on Rails.
 
 ### Google Alerts
 > ...
+
+Tasks:
+- [] Search to Alert Shortcut
+- [] Alert to Curlai Shortcut
