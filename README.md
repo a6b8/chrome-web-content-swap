@@ -16,8 +16,10 @@ Information on Rails.
 ## Prototype (Version Ashby)
 
 *Focus*:
-
-- 
+- [x] Create Design Elements
+- [x] Find a first efficient payload structure
+- [x] As minimal as possible
+- [x] Shortcuts to curlai
 
 ### Youtube
 > Working on Detail View
