@@ -13,5 +13,10 @@ Information on Rails.
 
 ## Prototype (Version Ashby)
 
+*Focus*:
+
 ### Youtube
 
+<img src="https://github.com/a6b8/curlai/blob/master/images/browser-extension-1.png" alt="alt text" height="300">
+
+<img src="https://github.com/a6b8/curlai/blob/master/images/browser-extension-2.png" alt="alt text" height="300">
