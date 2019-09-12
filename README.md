@@ -11,7 +11,8 @@ Information on Rails.
 
 ## Overview
 
-> Helps to 
+> (Currently) only for Google Chrome. 
+
 
 ## Prototype (Version Ashby)
 
