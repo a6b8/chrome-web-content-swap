@@ -15,8 +15,16 @@ Information on Rails.
 
 *Focus*:
 
+- 
+
 ### Youtube
+> Working on Detail View
+
+*Tasks*
+- Replace Recommendations with curlai subscriptions (first 20)
+- Reduce Distraction by swapping thumbnails
+- Show Category if channel is added
 
 <img src="https://github.com/a6b8/curlai/blob/master/images/browser-extension-1.png" alt="alt text" width="400">
 
-<img src="https://github.com/a6b8/curlai/blob/master/images/browser-extension-2.png" alt="alt text" width="300">
+<img src="https://github.com/a6b8/curlai/blob/master/images/browser-extension-2.png" alt="alt text" width="400">
